@@ -3,8 +3,6 @@
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="38 | TVC DEP ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tvc_deportes-mediano.png" group-title="ENTRETENIMIENTO Y NOVELAS",38 | TVC DEP ᴴᴰ
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="39 | TELEFE INT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png" group-title="ENTRETENIMIENTO Y NOVELAS",39 | TELEFE INT
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="56 | AMERICA TeVe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="ENTRETENIMIENTO Y NOVELAS",56 | AMERICA TeVe
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1092.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="57 | TLNOVELAS HD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="ENTRETENIMIENTO Y NOVELAS",57 | TLNOVELAS HD
@@ -43,6 +41,14 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1112.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1116.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20 | TV PUBLICA" tvg-logo="" group-title="ARGENTINA",20 | TV PUBLICA
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="39 | TELEFE INT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png" group-title="ARGENTINA",21 | TELEFE INT
+http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Telefe" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="ARGENTINA",22 | Telefe
+http://starlatino.tv:8880/live/klever1512/jegXn3sKcxD3/490458.m3u8
+tvg-id="" tvg-name="(OFFLINE) ARG | TELEFE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="ARGENTINA",23  | TELEFE HD
+http://starlatino.tv:8880/live/klever1512/jegXn3sKcxD3/490451.m3u8
+tvg-id="" tvg-name="ARG | TELEFE" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="ARGENTINA",24 | TELEFE
+http://starlatino.tv:8880/live/klever1512/jegXn3sKcxD3/490439.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TyC SPORTS INTERNACIONAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES ARGENTINA",ARG | TyC SPORTS INTERNACIONAL
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/1118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TyC SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES ARGENTINA",ARG | TyC SPORTS HD

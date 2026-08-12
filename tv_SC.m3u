@@ -263,8 +263,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/58271.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/58272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="104 | AZTECA INTERNACIONAL ᴴᴰ" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/76ced7a/2147483647/strip/true/crop/500x100+0+0/resize/230x46!/quality/90/?url=http://tv-azteca-brightspot.s3.amazonaws.com/f8/ea/359e1c7343eca0a070d5850f8971/tvai-logo-ok.png" group-title="CANALES VIP HD",104 | AZTECA INTERNACIONAL ᴴᴰ
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/58273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="105 | GOL PERU ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="CANALES VIP HD",105 | GOL PERU ᴴᴰ
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/58274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="USA KIDS",USA | Nick Music
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61299.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | Nickelodeon (exclusivo)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="USA KIDS",USA | Nickelodeon (exclusivo)
@@ -297,9 +295,7 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61321.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 | TN NOTICIAS" tvg-logo="http://digitaltvsv.com:80/images/p0comVXP5zcxvsMf1KqGHeqdyxbLq8Q5Md7HS6LKyBaW5eI4_pa1d6keZJuIFV3xsxnyGSLEIpcEO6vLjLcEQnT10vwC38tXrDx0DN9Oy1ffSnJzE-ZjiFVZq4bcDVMko-djjug_CjVTJRUFeOMPEvvsrZn-8aU_xQoHmNrvKzw.png" group-title="ARGENTINA",24 | TN NOTICIAS
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2 GUATEMALA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="GUATEMALA",CLARO SPORTS 2 GUATEMALA
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | T_UDN MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES MEXICO",MX | T_UDN MX ᴴᴰ
+#EXTINF:-1 tvg-i#EXTINF:-1 tvg-id="" tvg-name="MX | T_UDN MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES MEXICO",MX | T_UDN MX ᴴᴰ
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | TUDN USA ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES MEXICO",MX | TUDN USA ᴴᴰ
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/61978.m3u8
@@ -437,16 +433,12 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88244.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13 | ESPN 4 MX ᴴᴰ" tvg-logo="" group-title="ESPN PACK",13 | ESPN 4 MX ᴴᴰ
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15 | ESPN PERU" tvg-logo="" group-title="ESPN PACK",15 | ESPN PERU
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88692.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16 | ESPN CL" tvg-logo="" group-title="ESPN PACK",16 | ESPN CL
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17 | ESPN DEPORTES" tvg-logo="http://pbs.twimg.com/media/EqNf1TjXAAA5BMi.png" group-title="ESPN PACK",17 | ESPN DEPORTES
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/88845.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="18 | ESPN DEPORTES" tvg-logo="http://pbs.twimg.com/media/EqNf1TjXAAA5BMi.png" group-title="ESPN PACK",18 | ESPN DEPORTES
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/89133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RPC HD" tvg-logo="https://e7.pngegg.com/pngimages/625/251/png-clipart-rpc-tv-television-channel-tvmax-logo-4-miscellaneous-television.png" group-title="PANAMA",RPC HD
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/103056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01 | DAZN 1" tvg-logo="https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png" group-title="SKY SPORTS & DAZN",01 | DAZN 1
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/107956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02 | DAZN 2" tvg-logo="https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png" group-title="SKY SPORTS & DAZN",02 | DAZN 2
@@ -507,18 +499,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/123401.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/123402.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dfb596b8c6ac58475808d03f05721253.webp" group-title="COCINA",Tastemade 
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/123404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletrak " tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CARRERAS DE CABALLO & TOROS",Teletrak 
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/123979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVG FHD" tvg-logo="https://paulickreport.com/.image/t_share/MjAyMjU2MTEzMTMwNzQyNzk2/tvg-logo-2.png" group-title="CARRERAS DE CABALLO & TOROS",TVG FHD
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/123980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletrack " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp" group-title="CARRERAS DE CABALLO & TOROS",Teletrack 
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/124137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIPODROMO CHILE" tvg-logo="https://yt3.ggpht.com/a/AATXAJzvqzNPmj-MijZlI9dl__GwLWecqzn25QYX8w=s900-c-k-c0xffffffff-no-rj-mo" group-title="CARRERAS DE CABALLO & TOROS",HIPODROMO CHILE
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/124209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HorseCountryTV.uk" tvg-logo="https://th.bing.com/th/id/OIP.1c08lBqyi1Fqi5k3P44LkwAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="CARRERAS DE CABALLO & TOROS",HorseCountryTV.uk
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/124643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HorseTVHD.it" tvg-logo="https://th.bing.com/th/id/OIP.02il_kLbUAZfdzV76sO7JwAAAA?rs=1&pid=ImgDetMain" group-title="CARRERAS DE CABALLO & TOROS",HorseTVHD.it
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/124644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN FORMULA 1" tvg-logo="https://th.bing.com/th/id/OIP.PAu5eVErvBYeNhv0kcQ5GQHaHa?rs=1&pid=ImgDetMain" group-title="FORMULA 1 & MOTORES",DAZN FORMULA 1
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/126567.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTRSPT1 " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32d3e5276a20e66e81a4cb59242f37df.webp" group-title="FORMULA 1 & MOTORES",MTRSPT1 
@@ -535,12 +515,8 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/127958.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/127962.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="CINE LATINO",MyTime Movie Network
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/127966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RACING.COM " tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu94AF556OZzM53ALu5xsGZsVNyDpFEdbZWmhck1mA=s900-c-k-c0x00ffffff-no-rj" group-title="CARRERAS DE CABALLO & TOROS",RACING.COM 
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE LATINO",Cine Terror
+#EXTINF:-1 tvg-id#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE LATINO",Cine Terror
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Racing.com ENG" tvg-logo="https://th.bing.com/th/id/OIP.CUXxKUtFAPJ3RiyWvq39WgHaHa?w=1400&h=1400&rs=1&pid=ImgDetMain" group-title="CARRERAS DE CABALLO & TOROS",Racing.com ENG
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="CINE LATINO",Paramount Network 
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network Mexico (720p)" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="CINE LATINO",MyTime Movie Network Mexico (720p)
@@ -557,8 +533,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128748.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128749.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Wine " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999031671dfbf04262fc9c57d42b8253.webp" group-title="DOCUMENTALES",Love Wine 
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/128752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC | BACAN TE VEO" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="ECUADOR",EC | BACAN TE VEO
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/129273.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FS | FOX SPORTS PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="FOX SPORTS",FS | FOX SPORTS PREMIUM
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/129280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FS | FOX SPORTS USA FHD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/08/fs1-logo.png" group-title="FOX SPORTS",FS | FOX SPORTS USA FHD
@@ -583,8 +557,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/129290.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/129291.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="CINE LATINO",TNT Series FHD
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/135047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Centro Canal Regional (radio)" tvg-logo="https://tvcentroregional.com/images/radiotaisiwa.png" group-title="NICARAGUA",Centro Canal Regional (radio)
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/135048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01 | TELEMUNDO" tvg-logo="" group-title="TELEMUNDO",01 | TELEMUNDO
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/137393.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02 | TELEMUNDO NEW YORK" tvg-logo="" group-title="TELEMUNDO",02 | TELEMUNDO NEW YORK
@@ -605,14 +577,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/138867.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/138870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 11" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="TUDN & XTRA HD",TUDN XTRA 11
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/138872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UR | VTV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/184.png" group-title="URUGUAY",UR | VTV
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/138983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 12 (Opc.1)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/192.png" group-title="URUGUAY",UR | CANAL 12 (Opc.1)
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/138993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 12 (Opc.2)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/192.png" group-title="URUGUAY",UR | CANAL 12 (Opc.2)
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/139014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UR | TELEROCHA CANAL 9" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/telerocha-696x435.png" group-title="URUGUAY",UR | TELEROCHA CANAL 9
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/139015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nature Time" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="DOCUMENTALES",Nature Time
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/139027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US | ESTRELLA TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="USA CHANNELS",US | ESTRELLA TV
@@ -635,8 +599,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/139835.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/140757.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24 Español (1080p)" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="NOTICIAS",France 24 Español (1080p)
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 1" tvg-logo="https://i.imgur.com/wBK44RB.png" group-title="ESPAÑA",ES: La 1
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago  HD" tvg-logo="https://i.imgur.com/xM3bf2u.png" group-title="TELEMUNDO",Telemundo Chicago  HD
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141172.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05 | SKY SPORTS FOOTBALL" tvg-logo="https://i.imgur.com/4KX68Vi.png" group-title="SKY SPORTS & DAZN",05 | SKY SPORTS FOOTBALL
@@ -649,10 +611,6 @@ http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141365.m3u8
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141367.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://th.bing.com/th/id/OIP.6y34vwji82mIwJ226m2mqAAAAA?rs=1&pid=ImgDetMain" group-title="FORMULA 1 & MOTORES",SKY SPORTS F1
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia (Portrait) (1280p)" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="EMIRATOS ARABES",Sky News Arabia (Portrait) (1280p)
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky News Weather (720p)" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="INGLATERRA",Sky News Weather (720p)
-http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141372.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="https://firestickhacks.com/wp-content/uploads/2022/02/espnu-on-firestick-1024x1024.png" group-title="DEPORTES INTERNACIONAL",ESPN U
 http://elpapanatas.space:8080/live/SamuelChavez/9twPvGj8kvgR/141388.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSN The Ocho FHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="DEPORTES INTERNACIONAL",TSN The Ocho FHD
